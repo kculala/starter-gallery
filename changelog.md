@@ -1,33 +1,13 @@
 #Change Log
 
-Team membership:  AB (Captain) & CD (Mate)  
+Team membership:  Andy Lin (Captain) & Kenneth Culala (Mate)  
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
-## *Version x.x*
+## *Version 1.0*
 
-Release Date: Jul 26, 2027
-
-## New Components
-
--   controllers
-
-    -   serbian (AB)
+Release Date: Sep 22, 2017
     
 ## Updated Components
 
--   controllers
-
-    -   german (CD)
-    -   hindi (CD)
-
--   models
-
-    -   italian (AB)
-
--   views
-
-    -   slovenian (AB)
-    -   swedish
-
-
+- updated changelog
