@@ -1,33 +1,42 @@
-#Change Log
+# Change Log
 
-Team membership:  AB (Captain) & CD (Mate)  
+Team membership:  Andy Lin (Captain) & Kenneth Culala (Mate)  
 Team conventions: Allman notation, markdown for changelog  
-Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
+Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-## *Version x.x*
+## *Version 1.3*
 
-Release Date: Jul 26, 2027
+Release Date: Sep 22, 2017  
+By: Kenneth Culala
 
-## New Components
+### Updated
 
--   controllers
+- modified webapp to use database-driven model to make content dynamic
 
-    -   serbian (AB)
-    
-## Updated Components
+## *Version 1.2*
 
--   controllers
+Release Date: Sep 22, 2017  
+By: Andy Lin
 
-    -   german (CD)
-    -   hindi (CD)
+### Updated
 
--   models
-
-    -   italian (AB)
-
--   views
-
-    -   slovenian (AB)
-    -   swedish
+- build master view template and refactor views and base controllers
 
 
+## *Version 1.1*
+
+Release Date: Sep 22, 2017  
+By: Kenneth Culala
+
+### Updated
+
+- initial update to make static website use CodeIgniter
+
+## *Version 1.0*
+
+Release Date: Sep 22, 2017  
+By: Andy Lin
+
+### Updated
+
+- updated changelog
